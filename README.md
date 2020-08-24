@@ -1,7 +1,30 @@
-### Hi there 👋
+### 👋 Hi there, I am Kumar Nitesh (Knitesh)
+
+## 📚 About Me
+
+🖥 &nbsp; Full-stack software developer \
+⚡ &nbsp; part time Android Developer \
+💬 &nbsp; Ask me about JavaScript, React, NodeJs, C#, .Net, Cloud! \
+📫 &nbsp; How to reach me: DM: @imKnitesh
+
+##  What I'm up to
+
+🔭 &nbsp; I'm currently working on multiple open source npm packages, social posting app and master in computer science.
+
+<hr/>
+
+<p align="center"> 
+  <strong>Visitors</strong><br/> 
+  <img src="https://profile-counter.glitch.me/knitesh/count.svg" />
+</p>
+
+<p align="center">
+  <strong>Show some ❤️ by starring some of the repositories!</strong>
+</p>
 
 
 ![Kumar Nitesh's Github Stats](https://github-readme-stats.vercel.app/api?username=knitesh&show_icons=true&theme=highcontrast&count_private=true&show_icons=true)
+
 <!--
 **knitesh/knitesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
