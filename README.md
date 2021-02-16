@@ -1,6 +1,7 @@
+<p>
+ <img src='kumar-nitesh.png' />
+</p>
 
-![KumarNitesh] (kumar-nitesh.png)
-### 👋 Hi there, I am Kumar Nitesh (Knitesh)
 
 ## 📚 About Me
 
@@ -8,6 +9,7 @@
 ⚡ &nbsp; part time Android Developer \
 💬 &nbsp; Ask me about JavaScript, React, NodeJs, C#, .Net, Cloud! \
 📫 &nbsp; How to reach me: DM: @imKnitesh
+🔭 &nbsp; Post on twitter related to programming
 
 ##  What I'm up to
 
@@ -41,6 +43,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![KumarNitesh] (kumar-nitesh.png)
 
 
 
