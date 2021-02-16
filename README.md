@@ -8,8 +8,9 @@
 🖥 &nbsp; Full-stack software developer \
 ⚡ &nbsp; part time Android Developer \
 💬 &nbsp; Ask me about JavaScript, React, NodeJs, C#, .Net, Cloud! \
+🔭 &nbsp; I regularly post on twitter related to programming \
 📫 &nbsp; How to reach me: DM: @imKnitesh
-🔭 &nbsp; Post on twitter related to programming
+
 
 ##  What I'm up to
 
