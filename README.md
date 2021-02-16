@@ -1,5 +1,5 @@
 
-[![KumarNitesh] (https://github.com/knitesh/knitesh/blob/master/kumar-nitesh.png)](https://twitter.com/imknitesh)
+![KumarNitesh] (https://github.com/knitesh/knitesh/blob/master/kumar-nitesh.png)
 ### 👋 Hi there, I am Kumar Nitesh (Knitesh)
 
 ## 📚 About Me
